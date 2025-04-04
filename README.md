@@ -4,7 +4,8 @@ Um aplicativo gráfico simples desenvolvido em Python usando a biblioteca [Custo
 
 ## 📸 Captura de Tela
 
-> (Adicione aqui uma imagem `screenshot.png` do aplicativo, se desejar.)
+![Captura de Tela do Aplicativo](screenshot.png)
+
 
 ## ✨ Funcionalidades
 
